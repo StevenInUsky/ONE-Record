@@ -1,4 +1,4 @@
-# 1Welcome to ONE Record Standard Specifications!
+# 2Welcome to ONE Record Standard Specifications!
 
 This repository contains the specifications and ontology of ONE Record Standard.
 
